@@ -30,6 +30,7 @@
    - [Éthique et Sécurité de l'IA en Maintenance Applicative](#éthique-et-sécurité-de-lia-en-maintenance-applicative)
    - [Collaboration Homme-IA](#collaboration-homme-ia)
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 ## Introduction 
 
